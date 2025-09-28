@@ -46,3 +46,4 @@ This project performs *RFM (Recency, Frequency, Monetary) Analysis* on the Onlin
 2. Run all cells to reproduce analysis and visualizations.  
 3. Figures are saved automatically in the repo as PNG files.  
 4. `rfm_segments.csv` contains the final RFM scores and customer segments.
+
